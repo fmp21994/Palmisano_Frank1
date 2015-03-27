@@ -1,0 +1,2 @@
+The main difference that I found was that with GCC, it was much harder to go back into the document and edit anything that needed fixing.
+Also, manual compiling and execution was a reminder of how much an IDE can help with automatically.
